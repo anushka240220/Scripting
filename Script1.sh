@@ -5,3 +5,4 @@ echo "I am learning Git/Github"
 echo "I am learning DevOps"
 
 hello world 
+hi
