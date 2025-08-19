@@ -16,7 +16,7 @@ if [ $a -lt 100 -a $b -gt 15 ]
 then
  echo "$a
  echo "$a -lt 100 -a $b -gt 15 : returns false"
-fi
+fithis ismy code
 
 if [ $a -lt 100 -o $b -gt 100 ]
 then
