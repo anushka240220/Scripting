@@ -10,3 +10,4 @@ echo "a is smaller than b"
 fi
 
 hello i am anushka 
+to the jenkins practice

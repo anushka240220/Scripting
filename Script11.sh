@@ -1,4 +1,4 @@
-#!/bin/bash
+beautiful#!/bin/bash
 #this script is for if-elif-fi
 echo "Please enter value of a"
 read a
@@ -16,3 +16,4 @@ then
 else
  echo "None of the condition met"
 fi
+hello world
